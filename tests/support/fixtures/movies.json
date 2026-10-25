@@ -1,0 +1,98 @@
+{
+  "create": {
+    "title": "Guerra Mundial Z",
+    "overview": "Um ex-investigador das Nações Unidas percorre o mundo em busca da origem de uma pandemia que transforma pessoas em zumbis e ameaça a sobrevivência da humanidade.",
+    "company": "Paramount Pictures",
+    "releases_year": 2013,
+    "feature": false,
+    "cover": "/images/guerra-mundial-z.png"
+  },
+  "filme_2": {
+    "title": "Madrugada dos Mortos",
+    "overview": "Após um surto zumbi devastar a população, um grupo de sobreviventes se refugia em um shopping center para tentar sobreviver.",
+    "company": "Universal Pictures",
+    "releases_year": 2004,
+    "feature": false,
+    "cover": "/images/madrugada-dos-mortos.png"
+  },
+  "filme_3": {
+    "title": "Todo Mundo Quase Morto",
+    "overview": "Shaun tenta organizar sua vida enquanto enfrenta um apocalipse zumbi e luta para proteger seus amigos e familiares.",
+    "company": "Universal Pictures",
+    "releases_year": 2004,
+    "feature": false,
+    "cover": "/images/todo-mundo-quase-morto.png"
+  },
+  "filme_4": {
+    "title": "Extermínio",
+    "overview": "Um homem acorda em um hospital abandonado e descobre que um vírus transformou grande parte da população em seres extremamente violentos.",
+    "company": "20th Century Fox",
+    "releases_year": 2002,
+    "feature": false,
+    "cover": "/images/exterminio.png"
+  },
+  "filme_5": {
+    "title": "Extermínio 2",
+    "overview": "Após o primeiro surto, sobreviventes tentam reconstruir a sociedade em Londres, mas uma nova onda de infecção ameaça a humanidade.",
+    "company": "20th Century Fox",
+    "releases_year": 2007,
+    "feature": false,
+    "cover": "/images/exterminio-2.png"
+  },
+  "filme_6": {
+    "title": "REC",
+    "overview": "Uma repórter e sua equipe ficam presos em um edifício residencial durante uma investigação que se transforma em uma luta desesperada pela sobrevivência.",
+    "company": "Filmax",
+    "releases_year": 2007,
+    "feature": false,
+    "cover": "/images/rec.png"
+  },
+  "filme_7": {
+    "title": "A Noite dos Mortos-Vivos",
+    "overview": "Um grupo de sobreviventes se refugia em uma casa isolada enquanto mortos-vivos cercam o local.",
+    "company": "Continental Distributing",
+    "releases_year": 1968,
+    "feature": false,
+    "cover": "/images/a-noite-dos-mortos-vivos.png"
+  },
+  "filme_8": {
+    "title": "Despertar dos Mortos",
+    "overview": "Em meio a um apocalipse zumbi, um grupo de sobreviventes encontra abrigo em um shopping center cercado por mortos-vivos.",
+    "company": "United Film Distribution Company",
+    "releases_year": 1978,
+    "feature": false,
+    "cover": "/images/despertar-dos-mortos.png"
+  },
+  "filme_9": {
+    "title": "Terra dos Mortos",
+    "overview": "Os últimos humanos vivem em uma cidade fortificada enquanto os zumbis evoluem e passam a representar uma ameaça ainda maior.",
+    "company": "Universal Pictures",
+    "releases_year": 2005,
+    "feature": false,
+    "cover": "/images/terra-dos-mortos.png"
+  },
+  "filme_10": {
+    "title": "Zumbilândia",
+    "overview": "Quatro sobreviventes atravessam os Estados Unidos durante um apocalipse zumbi, enfrentando perigos e situações cômicas.",
+    "company": "Sony Pictures Releasing",
+    "releases_year": 2009,
+    "feature": false,
+    "cover": "/images/zumbilandia.png"
+  },
+  "filme_11": {
+    "title": "Invasão Zumbi",
+    "overview": "Um pai e sua filha embarcam em um trem para Busan quando uma epidemia zumbi se espalha rapidamente pela Coreia do Sul.",
+    "company": "Next Entertainment World",
+    "releases_year": 2016,
+    "feature": false,
+    "cover": "/images/invasao-zumbi.png"
+  },
+  "filme_12": {
+    "title": "Meu Namorado é um Zumbi",
+    "overview": "Em um mundo devastado por uma epidemia, um zumbi começa a recuperar sua humanidade depois de conhecer uma jovem sobrevivente.",
+    "company": "Lionsgate",
+    "releases_year": 2013,
+    "feature": false,
+    "cover": "/images/meu-namorado-e-um-zumbi.png"
+  }
+}
